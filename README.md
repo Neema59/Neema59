@@ -6,10 +6,10 @@ Welcome to my landing page! I am Neema Youssouf, a passionate and detail-oriente
 
 ### Skills
 
-- Python (NumPy, Pandas, scikit-learn)
+- Python (NumPy, Pandas, scikit-learn,spacy)
 - Data cleaning and preprocessing
 - Exploratory data analysis and statistical modeling
-- Machine learning algorithms (classification, regression)
+- Machine learning algorithms (classification, regression, clustering)
 - Data visualization (Matplotlib, Seaborn, Tableau)
 - SQL 
 - Git, GitHub
@@ -20,21 +20,19 @@ Welcome to my landing page! I am Neema Youssouf, a passionate and detail-oriente
 #### Project 1: Movie Prediction
 
 - Developed a machine learning model to predict movie recommendation for users based on a list of movies.
-- Performed semantic similarity.
-- Parsing ,tokenising.
+- Performed semantic similarity,tokenisation.
 - Technologies used: Python, spacy.
 
 #### Project 2: Financial calculator 
 
 - Built a financial calculator to calculate interest on home loan or investment .
-- .
 - File Handling.
 - Technologies used: Python.
 
 ### Education
 
 - Data Science Bootcamp: Hyperiondev Data Science Bootcamp (Online, March 2023)
-- Community interpreter level 2 : South and City College (Birmingham, June 2019)
+- Google data analytics  : Coursera  (Online, Currently)
 
 ### Contact
 
