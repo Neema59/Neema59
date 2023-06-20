@@ -1,8 +1,11 @@
 # Neema Youssouf 
+![Profile image](image2.jpg)
 
 ## Data Scientist | Bootcamp Graduate
 
 Welcome to my landing page! I am Neema Youssouf, a passionate and detail-oriented data scientist with a strong background in statistical analysis, machine learning, and data visualization. I recently completed a rigorous data science bootcamp and I am eager to apply my skills to real-world challenges.
+
+![Data analysis](image1.png)
 
 ### Skills
 
@@ -20,8 +23,7 @@ Welcome to my landing page! I am Neema Youssouf, a passionate and detail-oriente
 #### Project 1: Movie Prediction
 
 - Developed a machine learning model to predict movie recommendation for users based on a list of movies.
-- Performed semantic similarity.
-- Parsing,tokenisation.
+- Performed semantic similarity,tokenisation.
 - Technologies used: Python, spacy.
 
 #### Project 2: Financial calculator 
