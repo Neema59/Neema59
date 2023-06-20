@@ -20,7 +20,8 @@ Welcome to my landing page! I am Neema Youssouf, a passionate and detail-oriente
 #### Project 1: Movie Prediction
 
 - Developed a machine learning model to predict movie recommendation for users based on a list of movies.
-- Performed semantic similarity,tokenisation.
+- Performed semantic similarity.
+- Parsing,tokenisation.
 - Technologies used: Python, spacy.
 
 #### Project 2: Financial calculator 
