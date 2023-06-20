@@ -1,5 +1,4 @@
 # Neema Youssouf 
-![Profile image](image2.jpg)
 
 ## Junior Data Scientist | Bootcamp Graduate
 
@@ -45,4 +44,5 @@ I am actively seeking new data science opportunities and collaborations. Please 
 - LinkedIn: [Neema Youssouf](https://www.linkedin.com/in/neema-youssouf-43047826b)
 
 Let's harness the power of data to make informed decisions!
+![Profile image](image2.jpg)
 
