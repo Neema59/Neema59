@@ -28,7 +28,7 @@ Welcome to my landing page! I am Neema Youssouf, a passionate and detail-oriente
 #### Project 2: Financial calculator 
 
 - Built a financial calculator to calculate interest on home loan or investment .
-- File Handling.
+- Performed basic calculations.
 - Technologies used: Python.
 
 ### Education
