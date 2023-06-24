@@ -2,7 +2,7 @@
 
 ## Junior Data Scientist | Bootcamp Graduate
 
-Welcome to my landing page! I am Neema Youssouf, a passionate and detail-oriented data scientist with a strong background in statistical analysis, machine learning, and data visualization. I recently completed a rigorous data science bootcamp and I am eager to apply my skills to real-world challenges.
+Welcome to my landing page! I am Neema Youssouf, a passionate and detail-oriented data scientist with a strong background in statistical analysis, machine learning, and data visualisation. I recently completed a rigorous data science bootcamp and I am eager to apply my skills to real-world challenges.
 
 ![Data analysis](image1.png)
 
