@@ -12,7 +12,7 @@ Welcome to my landing page! I am Neema Youssouf, a passionate and detail-oriente
 - Data cleaning and preprocessing
 - Exploratory data analysis and statistical modeling
 - Machine learning algorithms (classification, regression, clustering)
-- Data visualization (Matplotlib, Seaborn, Tableau)
+- Data visualisation (Matplotlib, Seaborn, Tableau)
 - SQL, Microsoft Excel
 - Git, GitHub
 - Strong problem-solving and critical thinking skills
