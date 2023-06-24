@@ -34,7 +34,7 @@ Welcome to my landing page! I am Neema Youssouf, a passionate and detail-oriente
 ### Education
 
 - Data Science Bootcamp: Hyperiondev Data Science Bootcamp (Online, March 2023)
-- Google data analytics  : Coursera  (Online, Currently)
+- Google data analytics certification : Coursera  (Online, Currently)
 
 ### Contact
 
